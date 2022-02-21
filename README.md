@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I'm Jane (she/they)
+
+I'm a software engineer at [Toucan](https://jointoucan.com)
