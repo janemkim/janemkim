@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 #### I'm Jane (she/they)
 
 I'm a software engineer at [Toucan](https://jointoucan.com)
+
 [Codesmith](https://www.codesmith.io/) helped me get started as a dev
+
 Check me out on [LinkedIn](https://www.linkedin.com/in/janeminhyungkim/)
