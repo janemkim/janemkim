@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm Jane (she/they)
 
-I'm a software engineer at [Toucan](https://jointoucan.com)
+I'm a software engineer experienced in developing full-stack JavaScript and TypeScript applications with an emphasis on React and Node.js for modularized and scalable solutions. I am passionate about developing accessible front-end designs and enthusiastic about developing efficient, modularized, and scalable UI components for the best user experience.
 
 [Codesmith](https://www.codesmith.io/) helped me get started as a dev
 
